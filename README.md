@@ -8,8 +8,6 @@
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=WeslleyBaptista26&layout=compact&theme=radical)
 
-![Gráfico de Atividade](https://activity-graph.herokuapp.com/graph?username=WeslleyBaptista26&theme=redical)
-
 
 
 
