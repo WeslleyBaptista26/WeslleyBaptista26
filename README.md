@@ -4,11 +4,11 @@
 
 # Minhas Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=WeslleyBaptista26&show_icons=true&theme=radical)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=WeslleyBaptista26&layout=compact&theme=radical)
 
-![Gráfico de Atividade](https://activity-graph.herokuapp.com/graph?username=SEU_USUARIO&theme=redical)
+![Gráfico de Atividade](https://activity-graph.herokuapp.com/graph?username=WeslleyBaptista26&theme=redical)
 
 
 
