@@ -2,15 +2,6 @@
 
 <p align="center">Me considero um "dev" curioso e apaixonado por desbravar os caminhos do desenvolvimento de aplicações e games. Essa busca por conhecimento me impulsionou a querer entender mais sobre tudo no universo tecnológico. Atualmente, estou imerso nessa emocionante jornada de me tornar um desenvolvedor de software versátil.</p>
 
-# Minhas Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=WeslleyBaptista26&show_icons=true&theme=radical)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=WeslleyBaptista26&layout=compact&theme=radical)
-
-
-
-
 ## O Que Faço:
 
 💻 Desenvolvimento back end com Java e Spring
@@ -37,6 +28,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+
+# Minhas Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=WeslleyBaptista26&show_icons=true&theme=radical)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=WeslleyBaptista26&layout=compact&theme=radical)
 
 
 
